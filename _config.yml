@@ -1,0 +1,28 @@
+name: federicoxella
+favicon: null
+layout_spectrum: 0.14518911973573267
+typography_spectrum: 0.07078928360715508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5043422072194517
+  lightness: 0.7057107198052108
+  saturation: 0.464969772612676
+  rhythmicContrast: 0.5172102751675993
+purpose: []
